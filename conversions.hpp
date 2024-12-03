@@ -22,7 +22,7 @@
 #include "../3rdparty/rapidjson/schema.h"
 #include "../3rdparty/rapidjson/stringbuffer.h"
 #include "../3rdparty/rapidjson/writer.h"
-#include "../fsx/filesystem.hpp"
+#include "../base/fsx.hpp"
 #include "exceptions.hpp"
 
 #include <chrono>

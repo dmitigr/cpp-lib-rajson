@@ -43,7 +43,7 @@ set(dmitigr_rajson_implementations
 # Dependencies
 # ------------------------------------------------------------------------------
 
-set(dmitigr_libs_rajson_deps base fsx 3rdparty_rapidjson)
+set(dmitigr_libs_rajson_deps base 3rdparty_rapidjson)
 
 # ------------------------------------------------------------------------------
 # Tests
