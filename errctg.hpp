@@ -19,7 +19,7 @@
 
 #include "../3rdparty/rapidjson/error/en.h"
 #include "../3rdparty/rapidjson/error/error.h"
-#include "../base/errc.hpp"
+#include "../base/error.hpp"
 
 #include "errc.hpp"
 

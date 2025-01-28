@@ -19,7 +19,7 @@
 
 #include "../3rdparty/rapidjson/document.h"
 #include "../base/assert.hpp"
-#include "../base/err.hpp"
+#include "../base/error.hpp"
 
 #include "errctg.hpp"
 #include "path.hpp"
