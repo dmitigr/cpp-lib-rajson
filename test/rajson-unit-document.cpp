@@ -15,7 +15,6 @@
 // limitations under the License.
 
 #include "../../base/assert.hpp"
-#include "../../base/fsx.hpp"
 #include "../../rajson/document.hpp"
 
 #include <algorithm>

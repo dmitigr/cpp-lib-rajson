@@ -17,13 +17,13 @@
 #ifndef DMITIGR_RAJSON_DOCUMENT_HPP
 #define DMITIGR_RAJSON_DOCUMENT_HPP
 
-#include "../base/fsx.hpp"
 #include "../rajson/conversions.hpp"
 #include "../rajson/value_view.hpp"
 #include "../str/stream.hpp"
 #include "exceptions.hpp"
 
 #include <exception>
+#include <filesystem>
 #include <string>
 #include <string_view>
 #include <utility>
